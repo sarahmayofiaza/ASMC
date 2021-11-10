@@ -1,0 +1,19 @@
+#container {
+  width: 768px;
+  margin: 0 auto;
+  /* top/bottompx left/right */
+}
+.box {
+  background: #775858;
+  padding: ;
+}
+/* about section */
+#about {
+  height: 400px;
+}
+#about p {
+  line-height: 2em;
+}
+#about h2 {
+  color: #ffb740;
+}
